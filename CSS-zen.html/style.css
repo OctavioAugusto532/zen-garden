@@ -1,0 +1,27 @@
+@charset "UTF-8";
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #0b1e2d; 
+  color: #fdf6e3; 
+  line-height: 1.6;
+  padding: 2rem;
+}
+
+h1, h2, h3 {
+  color: #f9c74f;
+}
+
+a {
+  color: #f9c74f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
